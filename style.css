@@ -1,0 +1,172 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+nav{
+    height: 50px;
+    background-color: #5CB8B8;
+}
+
+.menu__list-item{
+    display: inline-block;
+    text-decoration: none;
+    padding-right: 54px;
+    padding-left: 54px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.head{
+    /* border: 1px solid black; */
+	height: 50px;
+}
+
+.menu
+{
+	height: 20px;
+	display: inline-block;
+	/* background: red; */
+	width: 76%;
+}
+.logo
+{
+	height: 54px;
+	display: inline-block;
+	/* background:blueviolet; */
+    
+    padding-top: 10px;
+    padding-left: 47px;
+    padding-right: 66px;
+    
+}
+
+h1{
+    padding-bottom: 15px;
+}
+
+.btn{
+    padding-top: 50px;
+}
+/* .promo{
+    display: block;
+    height: 434px;
+    width: 1140px;
+    margin: 0 auto;
+    background-color:#EDEDED;
+}  */
+
+.promo__parent{
+    height: 434px;
+}
+
+.text{
+    height: auto;
+    
+    float: left;
+    padding-top: 118px;
+    padding-bottom: 72px;
+    padding-left: 27px;
+
+    width: 40%;
+}
+
+.ibox{
+    
+    height: 339px;
+    float: right;
+
+    
+}
+
+.about{
+    height: 250px;
+    background-color:#5CB8B8;
+}
+
+footer{
+    text-align: center;
+}
+
+.load{
+    height: 422px;
+}
+
+.con_text{
+    height: 244px;
+    
+    float: right;
+    padding-top: 118px;
+    padding-bottom: 72px;
+    padding-left: 27px;
+
+    width: 40%;
+}
+
+.con_img{
+    height: 339px;
+    float: left;
+    padding-left: 100px;
+
+}
+
+
+
+.about__parent{
+    height: 250px;
+}
+.adv{
+    height: auto;
+    float: left;
+    text-align: center;
+    
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    width: 30%;
+}
+
+.author{
+    height: 250px;
+    background-color:#5CB8B8;
+}
+
+.autor_parent{
+    height: 250px;
+}
+
+.a__child1{
+    height: 180px;
+    float: left;
+    text-align: center;
+    
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 35px;
+    width: 49%;
+}
+
+.a__child2{
+    height: 180px;
+    float: right;
+    text-align: center;
+    
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 35px;
+    width: 49%;
+}
+
+.footer{
+    height: 122px;
+    background-color:#EDEDED
+}
